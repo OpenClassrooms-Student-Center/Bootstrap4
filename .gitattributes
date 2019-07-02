@@ -1,3 +1,1 @@
-images/archive/satellite.jpeg filter=lfs diff=lfs merge=lfs -text
-images/archive/spacesuit.sketch filter=lfs diff=lfs merge=lfs -text
-images/archive/spacewalk2.jpeg filter=lfs diff=lfs merge=lfs -text
+images/archive/* filter=lfs diff=lfs merge=lfs -text

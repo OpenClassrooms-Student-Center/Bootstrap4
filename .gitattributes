@@ -1,1 +1,2 @@
 archive/* filter=lfs diff=lfs merge=lfs -text
+git config lfs.https://github.com/lurnid/oc-bootstrap.git/info/lfs.locksverify false

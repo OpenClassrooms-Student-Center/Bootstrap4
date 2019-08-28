@@ -1,1 +1,3 @@
-This file is the example file for Part 2, Chapter 2 of the course "Create Websites Quickly and Efficiently in Bootstrap 4" on [Open Classrooms](openclassrooms.com).
+This folder contains the example files for the grid section of Chapter 2 in Part 2 of the course [Create Websites Efficiently With Bootstrap 4](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4) on [Open Classrooms](openclassrooms.com).
+
+Open the index.html file to see the sample code.
